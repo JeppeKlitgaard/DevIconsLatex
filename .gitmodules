@@ -1,0 +1,3 @@
+[submodule "devicons"]
+	path = devicons
+	url = https://github.com/devicons/devicon.git
